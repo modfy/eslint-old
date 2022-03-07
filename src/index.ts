@@ -80,5 +80,4 @@ const eslintConfig: Linter.Config = {
     JSX: true
   }
 }
-
-export default eslintConfig
+module.exports = eslintConfig
